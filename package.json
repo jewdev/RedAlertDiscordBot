@@ -1,0 +1,18 @@
+{
+  "name": "redalert",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends notification about red alerts in Israel.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^14.1.2",
+    "nodemon": "^2.0.19"
+  }
+}

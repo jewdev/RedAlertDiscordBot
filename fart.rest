@@ -1,0 +1,4 @@
+GET https://www.oref.org.il/WarningMessages/alert/alerts.json
+Accept: application/json
+X-Requested-With: XMLHttpRequest
+Referer: https://www.oref.org.il/12481-he/Pakar.aspx
